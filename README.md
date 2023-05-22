@@ -63,7 +63,7 @@ pip install jupyter notebook
 ![Gambar 3](Screenshots/ss3.JPG)
 
 ```bash
- jupyter notebook
+ jupyter notebook -v
 
 ```
 
